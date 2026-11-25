@@ -1,0 +1,61 @@
+{'id': 'B1', 'title': 'To Kill a Mockingbird', 'author': 'Harper Lee', 'available': True}
+{'id': 'B2', 'title': '1984', 'author': 'George Orwell', 'available': True}
+{'id': 'B3', 'title': 'Pride and Prejudice', 'author': 'Jane Austen', 'available': True}
+{'id': 'B4', 'title': 'The Great Gatsby', 'author': 'F. Scott Fitzgerald', 'available': True}
+{'id': 'B5', 'title': 'Moby Dick', 'author': 'Herman Melville', 'available': True}
+{'id': 'B6', 'title': 'War and Peace', 'author': 'Leo Tolstoy', 'available': True}
+{'id': 'B7', 'title': 'The Catcher in the Rye', 'author': 'J.D. Salinger', 'available': True}
+{'id': 'B8', 'title': 'Brave New World', 'author': 'Aldous Huxley', 'available': True}
+{'id': 'B9', 'title': 'Crime and Punishment', 'author': 'Fyodor Dostoevsky', 'available': True}
+{'id': 'B10', 'title': 'Jane Eyre', 'author': 'Charlotte Brontë', 'available': True}
+{'id': 'B11', 'title': 'The Lord of the Rings', 'author': 'J.R.R. Tolkien', 'available': True}
+{'id': 'B12', 'title': 'The Hobbit', 'author': 'J.R.R. Tolkien', 'available': True}
+{'id': 'B13', 'title': 'The Alchemist', 'author': 'Paulo Coelho', 'available': True}
+{'id': 'B14', 'title': 'The Da Vinci Code', 'author': 'Dan Brown', 'available': True}
+{'id': 'B15', 'title': "Harry Potter and the Sorcerer's Stone", 'author': 'J.K. Rowling', 'available': True}
+{'id': 'B16', 'title': 'Harry Potter and the Chamber of Secrets', 'author': 'J.K. Rowling', 'available': True}
+{'id': 'B17', 'title': 'Harry Potter and the Prisoner of Azkaban', 'author': 'J.K. Rowling', 'available': True}
+{'id': 'B18', 'title': 'Harry Potter and the Goblet of Fire', 'author': 'J.K. Rowling', 'available': True}
+{'id': 'B19', 'title': 'Harry Potter and the Order of the Phoenix', 'author': 'J.K. Rowling', 'available': True}
+{'id': 'B20', 'title': 'Harry Potter and the Half-Blood Prince', 'author': 'J.K. Rowling', 'available': True}
+{'id': 'B21', 'title': 'Harry Potter and the Deathly Hallows', 'author': 'J.K. Rowling', 'available': True}
+{'id': 'B22', 'title': 'The Chronicles of Narnia', 'author': 'C.S. Lewis', 'available': True}
+{'id': 'B23', 'title': 'The Lion, the Witch and the Wardrobe', 'author': 'C.S. Lewis', 'available': True}
+{'id': 'B24', 'title': 'Animal Farm', 'author': 'George Orwell', 'available': True}
+{'id': 'B25', 'title': 'The Picture of Dorian Gray', 'author': 'Oscar Wilde', 'available': True}
+{'id': 'B26', 'title': 'Wuthering Heights', 'author': 'Emily Brontë', 'available': True}
+{'id': 'B27', 'title': 'Les Misérables', 'author': 'Victor Hugo', 'available': True}
+{'id': 'B28', 'title': 'The Count of Monte Cristo', 'author': 'Alexandre Dumas', 'available': True}
+{'id': 'B29', 'title': 'Don Quixote', 'author': 'Miguel de Cervantes', 'available': True}
+{'id': 'B30', 'title': 'Dracula', 'author': 'Bram Stoker', 'available': True}
+{'id': 'B31', 'title': 'Frankenstein', 'author': 'Mary Shelley', 'available': True}
+{'id': 'B32', 'title': 'The Kite Runner', 'author': 'Khaled Hosseini', 'available': True}
+{'id': 'B33', 'title': 'A Thousand Splendid Suns', 'author': 'Khaled Hosseini', 'available': True}
+{'id': 'B34', 'title': 'The Book Thief', 'author': 'Markus Zusak', 'available': True}
+{'id': 'B35', 'title': 'Life of Pi', 'author': 'Yann Martel', 'available': True}
+{'id': 'B36', 'title': 'The Fault in Our Stars', 'author': 'John Green', 'available': True}
+{'id': 'B37', 'title': 'Paper Towns', 'author': 'John Green', 'available': True}
+{'id': 'B38', 'title': 'Looking for Alaska', 'author': 'John Green', 'available': True}
+{'id': 'B39', 'title': 'The Hunger Games', 'author': 'Suzanne Collins', 'available': True}
+{'id': 'B40', 'title': 'Catching Fire', 'author': 'Suzanne Collins', 'available': True}
+{'id': 'B41', 'title': 'Mockingjay', 'author': 'Suzanne Collins', 'available': True}
+{'id': 'B42', 'title': 'Divergent', 'author': 'Veronica Roth', 'available': True}
+{'id': 'B43', 'title': 'Insurgent', 'author': 'Veronica Roth', 'available': True}
+{'id': 'B44', 'title': 'Allegiant', 'author': 'Veronica Roth', 'available': True}
+{'id': 'B45', 'title': 'The Maze Runner', 'author': 'James Dashner', 'available': True}
+{'id': 'B46', 'title': 'The Scorch Trials', 'author': 'James Dashner', 'available': True}
+{'id': 'B47', 'title': 'The Death Cure', 'author': 'James Dashner', 'available': True}
+{'id': 'B48', 'title': 'Percy Jackson and the Lightning Thief', 'author': 'Rick Riordan', 'available': True}
+{'id': 'B49', 'title': 'Percy Jackson and the Sea of Monsters', 'author': 'Rick Riordan', 'available': True}
+{'id': 'B50', 'title': "Percy Jackson and the Titan's Curse", 'author': 'Rick Riordan', 'available': True}
+{'id': 'B51', 'title': 'Percy Jackson and the Battle of the Labyrinth', 'author': 'Rick Riordan', 'available': True}
+{'id': 'B52', 'title': 'Percy Jackson and the Last Olympian', 'author': 'Rick Riordan', 'available': True}
+{'id': 'B53', 'title': 'The Shining', 'author': 'Stephen King', 'available': True}
+{'id': 'B54', 'title': 'It', 'author': 'Stephen King', 'available': True}
+{'id': 'B55', 'title': 'Misery', 'author': 'Stephen King', 'available': True}
+{'id': 'B56', 'title': 'Carrie', 'author': 'Stephen King', 'available': True}
+{'id': 'B57', 'title': 'The Stand', 'author': 'Stephen King', 'available': True}
+{'id': 'B58', 'title': 'The Outsider', 'author': 'Stephen King', 'available': True}
+{'id': 'B59', 'title': 'Pet Sematary', 'author': 'Stephen King', 'available': True}
+{'id': 'B60', 'title': 'Doctor Sleep', 'author': 'Stephen King', 'available': True}
+{'id': 'B61', 'title': 'XYZ', 'author': 'ADA', 'year': '2002', 'available': True}
